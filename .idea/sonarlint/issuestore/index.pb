@@ -1,0 +1,19 @@
+
+J
+src/com/company/oop/A.java,2\b\2bfe5f353d0d5b14694b990113b231a7425bce3c
+O
+src/com/company/oop/Animal.java,6\6\6666593d08beb26fa1082ab0bd51b1742004e271
+J
+src/com/company/oop/B.java,e\b\eb06b4f49c15d764be506325ff7c8118cb6f6f19
+J
+src/com/company/oop/C.java,8\4\840638a844f4f262c4dd426d675e454fff1f9b60
+Q
+!src/com/company/oop/Employee.java,f\4\f493c5ce9ac17585a4956fc820187b0a261a442a
+P
+ src/com/company/oop/Example.java,8\a\8ae970761e23647208d903e86891a1ee85dc135a
+Q
+!src/com/company/oop/NewClass.java,6\0\605042fe2c0fa2eb5c6187aac4e30b25ff1776fd
+P
+ src/com/company/oop/Lecture.java,1\5\1581b5451dc48e9a79ec0b808ec4863cb1fceae2
+P
+ src/com/company/oop/Student.java,2\3\23b2d211ea3dcfd47b6b0de98eaf171626906592
