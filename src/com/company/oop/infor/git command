@@ -1,0 +1,18 @@
+
+
+repository ekak hadaganna onee
+
+// git init
+// git add .
+// git commit -m 'commit message'
+// git branch -M main(main or any other name)
+// git remote add origin https://github.com/SarangaHerath/java-class.git("your link")
+//git push -u origin main("any other name")
+
+
+// git clone https://github.com/SarangaHerath/java-class.git
+
+// git pull
+// git pull origin other branch name
+// git push
+// git push origin other branch name
